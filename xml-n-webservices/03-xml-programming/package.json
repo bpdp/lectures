@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-xml",
+  "version": "1.0.0",
+  "description": "Example of xml2js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "keywords": [
+    "Javascript",
+    "XML"
+  ],
+  "author": "Bambang Purnomosidi D. P.",
+  "license": "ISC",
+  "dependencies": {
+    "json-query": "^1.5.0",
+    "xml2js": "^0.4.12"
+  }
+}

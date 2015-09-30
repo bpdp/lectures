@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<business>
+    <company>123Steps</company>
+    <owner>Bambang Purnomosidi</owner>
+    <employee>
+        <firstname>Aura</firstname>
+        <lastname>Kasih</lastname>
+        <origin>Jakarta</origin>
+    </employee>
+    <employee>
+        <firstname>Agnes</firstname>
+        <lastname>Monica</lastname>
+        <origin>Jakarta</origin>
+    </employee>
+    <employee>
+        <firstname>Jenifer</firstname>
+        <lastname>Lopez</lastname>
+        <origin>Los Angeles</origin>
+    </employee>
+    <employee>
+        <firstname>Elly</firstname>
+        <lastname>Sugigi</lastname>
+        <origin>Yogyakarta</origin>
+    </employee>
+    <employee>
+        <firstname>Anggita</firstname>
+        <lastname>Sari</lastname>
+        <origin>Surabaya</origin>
+    </employee>
+    <employee>
+        <firstname>Sinta</firstname>
+        <lastname>Bachir</lastname>
+        <origin>Purwokerto</origin>
+    </employee>
+    <employee>
+        <firstname>Jessica</firstname>
+        <lastname>Iskandar</lastname>
+        <origin>Yogyakarta</origin>
+    </employee>
+</business>
