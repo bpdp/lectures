@@ -1,0 +1,14 @@
+{
+  "name": "code-decode-pb",
+  "version": "1.0.0",
+  "description": "Code and decode .proto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protobuf"
+  ],
+  "author": "bpdp",
+  "license": "ISC"
+}
